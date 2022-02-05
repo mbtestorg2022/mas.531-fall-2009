@@ -171,11 +171,112 @@ Your own choice … send me an email to get the approval. You can do some backgr
 
 You will use a multi-spectral database and create the appearance of objects under light sources with given color profiles.
 
-| STEPS | DESCRIPTIONS | RESOURCES |
-| --- | --- | --- |
-| Step 1 | Recover multiple wavelength bands of a scene (using online database) |  {{< br >}}{{< br >}} [CAVE Multispectral Image Database](http://www1.cs.columbia.edu/CAVE/databases/multispectral/) with 31 bands {{< br >}}{{< br >}} You should try on at least 2 datasets among the 5 sections of this set: {{< br >}}{{< br >}} 1.  Lemon slices (and color chart) from the section "[Real and Fake](http://www1.cs.columbia.edu/CAVE/databases/multispectral/real_and_fake/)"{{< br >}}2.  One other set of your choice {{< br >}}{{< br >}}  |
-| Step 2 | Get the wavelength profile of at least two light sources (e.g. mercury vapor and sunlight), using curves available online or computing the curve yourself using a spectroscope) |  {{< br >}}{{< br >}} Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Spectroscope/spectroscope.pdf)) {{< br >}}{{< br >}}  |
-| Step 3 | Multiply each band of scene with corresponding intensity of light source in that band |  {{< br >}}{{< br >}} Graph of human eye spectral sensitivity, to estimate "red," "green," and "blue" target values ([JPG](http://www.normankoren.com/Human_spectral_sensitivity_small.jpg)) {{< br >}}{{< br >}} More about eye response: Koren, N. "[Color management and color science: Introduction](http://www.normankoren.com/color_management.html)" {{< br >}}{{< br >}}  |
-| Step 4 | Create a weighted combination for 'red', 'green' and 'blue' target values | &nbsp; |
-| Step 5 | Render the colored scene | &nbsp; |
-| Extra credit | Create a Metamer (objects with two different wavelength profile that look the same in RGB under a light source with specific wavelength profile) | [Metamer applet](http://www.cs.brown.edu/exploratories/freeSoftware/repository/edu/brown/cs/exploratories/applets/spectrum/metamers_java_browser.html)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STEPS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+{{< thopen >}}
+RESOURCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Step 1
+{{< tdclose >}}
+{{< tdopen >}}
+Recover multiple wavelength bands of a scene (using online database)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[CAVE Multispectral Image Database](http://www1.cs.columbia.edu/CAVE/databases/multispectral/) with 31 bands
+
+You should try on at least 2 datasets among the 5 sections of this set:
+
+1.  Lemon slices (and color chart) from the section "[Real and Fake](http://www1.cs.columbia.edu/CAVE/databases/multispectral/real_and_fake/)"
+2.  One other set of your choice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Step 2
+{{< tdclose >}}
+{{< tdopen >}}
+Get the wavelength profile of at least two light sources (e.g. mercury vapor and sunlight), using curves available online or computing the curve yourself using a spectroscope)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Spectroscope/spectroscope.pdf))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Step 3
+{{< tdclose >}}
+{{< tdopen >}}
+Multiply each band of scene with corresponding intensity of light source in that band
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Graph of human eye spectral sensitivity, to estimate "red," "green," and "blue" target values ([JPG](http://www.normankoren.com/Human_spectral_sensitivity_small.jpg))
+
+More about eye response: Koren, N. "[Color management and color science: Introduction](http://www.normankoren.com/color_management.html)"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Step 4
+{{< tdclose >}}
+{{< tdopen >}}
+Create a weighted combination for 'red', 'green' and 'blue' target values
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Step 5
+{{< tdclose >}}
+{{< tdopen >}}
+Render the colored scene
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Extra credit
+{{< tdclose >}}
+{{< tdopen >}}
+Create a Metamer (objects with two different wavelength profile that look the same in RGB under a light source with specific wavelength profile)
+{{< tdclose >}}
+{{< tdopen >}}
+[Metamer applet](http://www.cs.brown.edu/exploratories/freeSoftware/repository/edu/brown/cs/exploratories/applets/spectrum/metamers_java_browser.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

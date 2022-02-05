@@ -86,31 +86,250 @@ Grading
 
 The credit weights are as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework assignments | 40% |
-| Final project | 40% |
-| Mid-term exam | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework assignments
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 To receive credit, you must attend regularly, complete the project assignment and develop a software or hardware prototype for final project.
 
 Schedule
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and fast-forward preview of all topics | &nbsp; |
-| 2 | Modern optics and lenses; ray-matrix operations; context enhanced imaging | &nbsp; |
-| 3 | Epsilon Photography: Improving Film-like Photography (Guest Lecture by Ankit Mohan)  {{< br >}}  {{< br >}}Recent research: Single-shot Multi-domain Camera (guest lecture by anonymous MIT student) | Homework 1 due |
-| 4 | Computational Illumination: dual photography, relighting | &nbsp; |
-| 5 | Lightfields, part 1  {{< br >}}  {{< br >}}Recent research: Retrographic Sensing for the Measurement of Surface Texture and Shape (guest lecture by Micah Kimo Johnson) | &nbsp; |
-| 6 | Lightfields, part 2  {{< br >}}  {{< br >}}Cameras for human-computer interaction (HCI)  {{< br >}}  {{< br >}}Recent research: BiDi Screen (guest lecture by Matt Hirsch) |  {{< br >}}{{< br >}} Homework 2 due 4 days later {{< br >}}{{< br >}} Homework 3 out {{< br >}}{{< br >}}  |
-| 7 | IR imaging (guest lecture)  {{< br >}}  {{< br >}}Tomography and 3D techniques (guest lecture) | &nbsp; |
-| 8 | Wavelengths and colors (guest lecture by Ankit Mohan)  {{< br >}}  {{< br >}}Survey of Hyperspectral Imaging Techniques (guest lecture by Michael Stenner, MITRE)  {{< br >}}  {{< br >}}Project ideas discussion | Final project pre-proposal due  {{< br >}}  {{< br >}}Homework 3 due  {{< br >}}  {{< br >}}Homework 4 out |
-| 9 | Computational Imaging: A Survey of Medical and Scientific Applications (guest lecture by Douglas Lanman, Brown University)  {{< br >}}  {{< br >}}"Cameras We Cannot Picture": a survey of the computational imaging field (guest lecture by Ravi Athale, MITRE)  {{< br >}}  {{< br >}}Project pre-proposal presentations (3 min. each) | &nbsp; |
-| 10 | Mid-term exam  {{< br >}}  {{< br >}}Optics and sensing in animal eyes: what can we learn from successful biological vision systems? (guest lecture by Quinn Smitwick) | Homework 4 due |
-| 11 | Coded imaging  {{< br >}}  {{< br >}}How to write a paper  {{< br >}}  {{< br >}}Wishlist for photography | Final project proposals due |
-| 12 | Final project presentations | Final project report due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and fast-forward preview of all topics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Modern optics and lenses; ray-matrix operations; context enhanced imaging
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Epsilon Photography: Improving Film-like Photography (Guest Lecture by Ankit Mohan)  
+  
+Recent research: Single-shot Multi-domain Camera (guest lecture by anonymous MIT student)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Computational Illumination: dual photography, relighting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lightfields, part 1  
+  
+Recent research: Retrographic Sensing for the Measurement of Surface Texture and Shape (guest lecture by Micah Kimo Johnson)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lightfields, part 2  
+  
+Cameras for human-computer interaction (HCI)  
+  
+Recent research: BiDi Screen (guest lecture by Matt Hirsch)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due 4 days later
+
+Homework 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+IR imaging (guest lecture)  
+  
+Tomography and 3D techniques (guest lecture)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Wavelengths and colors (guest lecture by Ankit Mohan)  
+  
+Survey of Hyperspectral Imaging Techniques (guest lecture by Michael Stenner, MITRE)  
+  
+Project ideas discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Final project pre-proposal due  
+  
+Homework 3 due  
+  
+Homework 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Computational Imaging: A Survey of Medical and Scientific Applications (guest lecture by Douglas Lanman, Brown University)  
+  
+"Cameras We Cannot Picture": a survey of the computational imaging field (guest lecture by Ravi Athale, MITRE)  
+  
+Project pre-proposal presentations (3 min. each)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term exam  
+  
+Optics and sensing in animal eyes: what can we learn from successful biological vision systems? (guest lecture by Quinn Smitwick)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Coded imaging  
+  
+How to write a paper  
+  
+Wishlist for photography
+{{< tdclose >}}
+{{< tdopen >}}
+Final project proposals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final project report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Thanks
 ------

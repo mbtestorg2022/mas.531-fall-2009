@@ -14,9 +14,59 @@ Results
 
 The following table presents a selection of student project work, courtesy of the students and used with permission. Some other projects have resulted in papers submitted to conferences and publications, and cannot be presented here.
 
-| SELECTED 2009 PROJECTS | DOCUMENTATION |
-| --- | --- |
-| "Separating Transparent Layers in Images" by anonymous MIT student | Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj1_paper)) |
-| "Chicken Cam: Sharp Images from a Moving Camera" by anonymous MIT student | Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj3_paper))  {{< br >}}Slides ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj3_slides))  {{< br >}}Animation of concept ([GIF - 1.2MB]({{< baseurl >}}/resources/proj3_ani))  {{< br >}}  {{< br >}}Supporting video: destinws2. "Chicken Head Tracking — Pennywhistle Productions." 15 June 2008. YouTube. Accessed 1 June 2010. [http://www.youtube.com/watch?v=\_dPlkFPowCc](http://www.youtube.com/watch?v=_dPlkFPowCc) |
-| "Raytracing for Parallax 3-D Display" by Szymon Jakubczak | Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj4_paper)) |
-| "3D Texture Maps from an Articulated Sensor Camera Mesh" by anonymous MIT student | Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj5_paper))  {{< br >}}Code ([PDE]({{< baseurl >}}/resources/proj5_code))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SELECTED 2009 PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+DOCUMENTATION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Separating Transparent Layers in Images" by anonymous MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj1_paper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Chicken Cam: Sharp Images from a Moving Camera" by anonymous MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj3_paper))  
+Slides ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj3_slides))  
+Animation of concept ([GIF - 1.2MB]({{< baseurl >}}/resources/proj3_ani))  
+  
+Supporting video: destinws2. "Chicken Head Tracking — Pennywhistle Productions." 15 June 2008. YouTube. Accessed 1 June 2010. [http://www.youtube.com/watch?v=\_dPlkFPowCc](http://www.youtube.com/watch?v=_dPlkFPowCc)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Raytracing for Parallax 3-D Display" by Szymon Jakubczak
+{{< tdclose >}}
+{{< tdopen >}}
+Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj4_paper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"3D Texture Maps from an Articulated Sensor Camera Mesh" by anonymous MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+Paper ([PDF]({{< baseurl >}}/resources/mitmas_531f09_proj5_paper))  
+Code ([PDE]({{< baseurl >}}/resources/proj5_code))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
