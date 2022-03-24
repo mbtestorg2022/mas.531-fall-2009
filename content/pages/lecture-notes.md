@@ -51,7 +51,7 @@ Internet Archive ([MP3 - 14.9MB](http://www.archive.org/download/MITMAS_531F09/M
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 16.3MB](/ans7870/MAS/MAS.531/F09/LECTURE/MITMAS_531F09_lec01.pdf))
+([PDF - 16.3MB](/ans7870/MAS/MAS.531/F09/LECTURE/MITMAS_531F09_lec01.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
  no notes
@@ -75,7 +75,7 @@ Part 2
 Internet Archive ([MP3 - 22.8MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec02_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.6MB]({{< baseurl >}}/resources/mitmas_531f09_lec02))
+([PDF - 8.6MB]({{< baseurl >}}/resources/mitmas_531f09_lec02))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mitmas_531f09_lec02_notes))
@@ -260,7 +260,7 @@ Wavelengths and colors (guest lecture by Ankit Mohan)
 Internet Archive ([MP3 - 19.5MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec08_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5MB]({{< baseurl >}}/resources/mitmas_531f09_lec08_2))
+([PDF - 2.5MB]({{< baseurl >}}/resources/mitmas_531f09_lec08_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -353,7 +353,7 @@ Coded imaging
 Internet Archive ([MP3 - 18.9MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec11.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5MB]({{< baseurl >}}/resources/mitmas_531f09_lec11_1))
+([PDF - 2.5MB]({{< baseurl >}}/resources/mitmas_531f09_lec11_1))
 {{< tdclose >}}
 {{< tdopen >}}
 no notes
@@ -368,7 +368,7 @@ Wishlist for photography
 no audio
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.2MB]({{< baseurl >}}/resources/mitmas_531f09_lec11_2))
+([PDF - 6.2MB]({{< baseurl >}}/resources/mitmas_531f09_lec11_2))
 {{< tdclose >}}
 
 {{< trclose >}}

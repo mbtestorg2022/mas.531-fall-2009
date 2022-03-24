@@ -97,7 +97,7 @@ More projects are described at the Stanford Computer Graphics Laboratory's "[Lig
 
 Other ways to create lightfields include:
 
-*   Flatbed scanner + lenticulars — See Yang, Jason C. "A Light Field Camera For Image Based Rendering." Master's Thesis, MIT, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB](http://groups.csail.mit.edu/graphics/pubs/thesis_jcyang.pdf))
+*   Flatbed scanner + lenticulars — See Yang, Jason C. "A Light Field Camera For Image Based Rendering." Master's Thesis, MIT, 2000. ([PDF - 1.7MB](http://groups.csail.mit.edu/graphics/pubs/thesis_jcyang.pdf))
 *   Masks — See Veeraraghavan, A., et al. "[Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing](http://web.media.mit.edu/~raskar/Mask/)." ACM SIGGRAPH 2007.
 
 ### Assignment 2C: Lightfield Photography (same as 2B) but with Input Photos Rendered in Software
@@ -218,7 +218,7 @@ Get the wavelength profile of at least two light sources (e.g. mercury vapor and
 {{< tdopen >}}
 
 
-Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Spectroscope/spectroscope.pdf))
+Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” ([PDF](http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Spectroscope/spectroscope.pdf))
 
 
 {{< tdclose >}}
